@@ -369,7 +369,7 @@ const mainConfig = function () {
             contentBase: distPath,
             watchContentBase: true,
             compress: true,
-            port: 3000
+            port: 3030
         }
     }
 };
